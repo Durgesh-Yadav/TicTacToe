@@ -4,8 +4,8 @@ packages = find_packages()
 
 setup(
     name='TicTacToe8460',
-    version='1.1.0',
-    description="My first python project.Name:Durgesh Kumar Yadav",
+    version='1.0.0',
+    description="My first python project.",
     packages=packages,
     install_requires=["PyQt5"]
 )
